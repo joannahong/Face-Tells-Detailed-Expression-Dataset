@@ -4,7 +4,7 @@ This repository provides Text-based dataset with comprehensive facial expression
 ## Text-based dataset generation model
 ![image](text_based_dataset_generation_model.png)
 
-## Data download
+## Dataset download
 - [CK+](https://drive.google.com/open?id=1B0eTek1AP5lBm7x1XdLd2jNbTF_3e_7d)
 - [DISFA+](https://drive.google.com/open?id=1zHSfGIKxEJWH_swVWTzAj2mdkZo1PnZX)
 - [MMI](https://drive.google.com/open?id=122FqZbHLjoNsefmX6aAXEzkPRDsxSQXt)
@@ -15,4 +15,4 @@ This repository provides Text-based dataset with comprehensive facial expression
 - [Extended DISFA Dataset: Investigating Posed and Spontaneous Facial Expressions](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w28/papers/Mavadati_Extended_DISFA_Dataset_CVPR_2016_paper.pdf) 
 - [Web-based database for facial expression analysis](https://ieeexplore.ieee.org/document/1521424)
 
-
+## Citation
