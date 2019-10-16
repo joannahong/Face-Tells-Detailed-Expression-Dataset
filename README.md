@@ -4,7 +4,14 @@ This repository provides Text-based dataset with comprehensive facial expression
 ## Text-based dataset generation model
 ![image](text_based_dataset_generation_model.png)
 
-## Dataset download
+## Facial image dataset download
+You firstly need to download facial image datasets from the original database download pages:
+- [CK+ database](http://www.consortium.ri.cmu.edu/ckagree/)
+- [DISFA+ database](http://mohammadmahoor.com/disfa/)
+- [MMI database](https://mmifacedb.eu/)
+
+## Text-based dataset download
+Text-based dataset with comprehensive facial expression sentence with instruction for using these dataset along with downloaded facial image datasets is included below:
 - [CK+](https://drive.google.com/open?id=1B0eTek1AP5lBm7x1XdLd2jNbTF_3e_7d)
 - [DISFA+](https://drive.google.com/open?id=1zHSfGIKxEJWH_swVWTzAj2mdkZo1PnZX)
 - [MMI](https://drive.google.com/open?id=122FqZbHLjoNsefmX6aAXEzkPRDsxSQXt)
