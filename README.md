@@ -23,5 +23,14 @@ Text-based dataset with comprehensive facial expression sentence with instructio
 - [Web-based database for facial expression analysis](https://ieeexplore.ieee.org/document/1521424)
 
 ## Citation
-<a id="1">[1]</a> 
-Hong, Joanna, et al. "Face Tells Detailed Expression: Generating Comprehensive Facial Expression Sentence Through Facial Action Units." International Conference on Multimedia Modeling. Springer, Cham, 2020.
+Please cite the following paper if you have use this code:
+```
+@inproceedings{hong2020face,
+  title={Face Tells Detailed Expression: Generating Comprehensive Facial Expression Sentence Through Facial Action Units},
+  author={Hong, Joanna and Lee, Hong Joo and Kim, Yelin and Ro, Yong Man},
+  booktitle={International Conference on Multimedia Modeling},
+  pages={100--111},
+  year={2020},
+  organization={Springer}
+}
+```
