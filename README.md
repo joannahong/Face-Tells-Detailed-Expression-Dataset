@@ -1,6 +1,10 @@
 # Text-based-dataset-with-comprehensive-facial-expression-sentence
 This repository provides Text-based dataset with comprehensive facial expression sentence using CK+, DISFA+, and MMI datasets used in paper [Face Tells Detailed Expression: Generating Comprehensive Facial Expression Sentence through Facial Action Units](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_9)
 
+Recent Updates
+----------
+- The implementation of this paper is now [under construction](https://github.com/joannahong/Face-Tells-Detailed-Expression).
+
 ## Text-based dataset generation model
 ![image](text_based_dataset_generation_model.png)
 
